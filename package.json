@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/carsenk/tribus-hashjs.git"
+    "url": "https://github.com/innova-foundation/tribus-hashjs.git"
   },
   "keywords": [
     "tribus",
     "keccak",
     "echo",
-    "denarius",
+    "innova",
     "jh"
   ],
-  "author": "carsenk",
+  "author": "Original - carsenk | Innova - CircuitBreaker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carsenk/tribus-hashjs/issues"
+    "url": "https://github.com/innova-foundation/tribus-hashjs/issues"
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
